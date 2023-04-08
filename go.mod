@@ -1,4 +1,4 @@
-module github.com/therealfakemoot/launchbot
+module github.com/therealfakemoot/launchscraper
 
 go 1.19
 
